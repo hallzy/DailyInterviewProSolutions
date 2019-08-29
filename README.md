@@ -1,3 +1,3 @@
 # DailyInterviewProSolutions
 
-My Repo for [dailinterviewpro.com](dailinterviewpro.com) solutions.
+My Repo for [dailyinterviewpro.com](https://dailyinterviewpro.com) solutions.
