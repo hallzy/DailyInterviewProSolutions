@@ -1,4 +1,4 @@
-# September 5, 2019
+# September 6, 2019
 
 This problem was recently asked by Apple:
 
